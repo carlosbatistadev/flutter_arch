@@ -1,0 +1,3 @@
+As entidades precisam ser puras, no caso elas não devem ter nenhum tipo de modelagem, como o fromMap, fromJson e etc...
+
+Eu posso ter regras de negócios em relação a própria entidade, no caso que não dependa de nenhum dado externo.
